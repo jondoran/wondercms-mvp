@@ -4,7 +4,7 @@
         "theme-name": {
             "name": "MVP",
             "repo": "https://github.com/jondoran/wondercms-mvp/tree/main",
-            "zip": "https://github.com/jondoran/wondercms-mvp/tree/main/mvp.zip",
+            "zip": "",
             "summary": "MVP",
             "version": "0.0.1",
             "image": "https://github.com/jondoran/wondercms-mvp/blob/02dae59d36719c1c884c1c0a6749180c9a32789b/preview.jpg"
