@@ -3,11 +3,11 @@
     "themes": {
         "theme-name": {
             "name": "MVP",
-            "repo": "https://github.com/jondoran/wondercms-mvp/main",
-            "zip": "https://github.com/jondoran/wondercms-mvp/archive/master.zip",
+            "repo": "https://github.com/jondoran/wondercms-mvp/",
+            "zip": "https://github.com/jondoran/wondercms-mvp/mvp.zip",
             "summary": "MVP",
             "version": "0.0.1",
-            "image": "https://raw.githubusercontent.com/jondoran/wondercms-mvp/master/preview.jpg"
+            "image": "https://raw.githubusercontent.com/jondoran/wondercms-mvp/preview.jpg"
         }
     }
 }
