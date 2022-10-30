@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "theme-name": {
+            "name": "MVP",
+            "repo": "https://github.com/jondoran/wondercms-mvp/main",
+            "zip": "https://github.com/jondoran/wondercms-mvp/archive/master.zip",
+            "summary": "MVP",
+            "version": "0.0.1",
+            "image": "https://raw.githubusercontent.com/jondoran/wondercms-mvp/master/preview.jpg"
+        }
+    }
+}
