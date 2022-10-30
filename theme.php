@@ -27,7 +27,7 @@
 		<?= $Wcms->css() ?>
 		
 		<!-- Theme CSS -->
-		<link rel="stylesheet" href="https://unpkg.com/mvp.css@1.12/mvp.css">
+		<link rel="stylesheet" href="style.css">
 	</head>
 
 	<body>
